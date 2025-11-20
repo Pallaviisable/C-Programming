@@ -15,3 +15,4 @@ designed for interviews, competitive programming, and strong fundamental learnin
 └── 📂 04-PATTERN PRINTING
 
 ```
+Note: This is the current folder structure. The repository will continue to grow with more topics, programs, and advanced concepts over time.
